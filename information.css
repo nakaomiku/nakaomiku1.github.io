@@ -1,0 +1,56 @@
+
+
+html{
+    font-family: 'Times New Roman', Times, serif;
+    font-family: "Roboto", monospace, serif;
+    font-weight: 600;
+    position: relative;
+    color: #fff;
+    }
+h1{ font-size: 3rem; }
+p{
+    font-size: 2rem;
+    text-align: center;
+}
+*{
+    color: rgb(31, 28, 28);
+    font-size: larger;
+
+        margin: 10;
+        padding: 10;   
+    }
+
+body{
+      background: url(maxresdefault.jpg)  ;
+      background-repeat: no-repeat;
+       background-size: cover;    
+       width: 100%;
+       min-height: 100vh;
+    
+}
+.avt{
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+    background:  url(519-lg.png) no-repeat center / cover;
+   }
+.box-center{
+    width: 200px;
+    max-height: 200px;
+    margin: auto;
+}
+.facebook{
+    background-color: rgb(218, 88, 88);
+   width: 300px;
+   margin: auto;
+
+}
+.zalo{
+    background-color: rgb(218, 92, 92);
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+h1:root{
+    color: antiquewhite;
+}
